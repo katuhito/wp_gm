@@ -1,0 +1,877 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Quality\n"
+"POT-Creation-Date: 2017-07-14 16:34+0530\n"
+"PO-Revision-Date: 2017-07-14 16:34+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:8
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:9
+msgid "Oops! Page not found"
+msgstr ""
+
+#: 404.php:10
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:11
+msgid "Go Back"
+msgstr ""
+
+#: archive.php:11
+msgid "Daily Archive"
+msgstr ""
+
+#: archive.php:13
+msgid "Monthly Archive"
+msgstr ""
+
+#: archive.php:15
+msgid "Yearly Archive"
+msgstr ""
+
+#: archive.php:17
+msgid "Blog Archive"
+msgstr ""
+
+#: archive.php:62 author.php:48 category.php:48 index.php:51 single.php:51
+#: tag.php:50
+msgid "Read More"
+msgstr ""
+
+#: comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:17
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:18
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:19
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr ""
+
+#: comments.php:33
+msgid "Name"
+msgstr ""
+
+#: comments.php:34
+msgid "Email"
+msgstr ""
+
+#: comments.php:42
+msgid "Comment"
+msgstr ""
+
+#: comments.php:44
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:44
+msgid "Logout"
+msgstr ""
+
+#: comments.php:46
+msgid "Send Message"
+msgstr ""
+
+#: comments.php:49
+msgid "Leave a Reply"
+msgstr ""
+
+#: functions.php:42
+msgid "Page"
+msgstr ""
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:82
+msgid "Get the one page template"
+msgstr ""
+
+#: functions.php:86
+msgid "Install Pirate Forms"
+msgstr ""
+
+#: functions.php:92
+msgid "Check the contact form after installing Pirate Forms"
+msgstr ""
+
+#: functions/commentbox/comment-function.php:12
+msgid "Reply"
+msgstr ""
+
+#: functions/commentbox/comment-function.php:21
+msgid "at"
+msgstr ""
+
+#: functions/commentbox/comment-function.php:29
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/custom_control/class-dummy-import-control.php:9
+msgid "Activate Homepage"
+msgstr ""
+
+#: functions/custom_control/class-dummy-import-control.php:12
+#, php-format
+msgid "To show the Home Page, click on the buttons given below %s"
+msgstr ""
+
+#: functions/custom_control/class-dummy-import-control.php:12
+msgid "How to activate homepage"
+msgstr ""
+
+#: functions/customizer/customizer-blog.php:7
+msgid "Home blog settings"
+msgstr ""
+
+#: functions/customizer/customizer-blog.php:27
+msgid "Enable home blog section"
+msgstr ""
+
+#: functions/customizer/customizer-blog.php:38
+msgid "Our latest blog post"
+msgstr ""
+
+#: functions/customizer/customizer-blog.php:47
+#: functions/customizer/customizer-project.php:50
+#: functions/customizer/customizer-service.php:13
+msgid "Section Heading"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:8
+msgid "Footer copyright settings"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:17
+#, php-format
+msgid ""
+"<p>@ Copyright 2017 Quality Center Design And Developed by <a href=\"%1$s\" "
+"target=\"_blank\">WordPress Theme</a><p>"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:26
+msgid "Copyright text"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:8
+msgid "Header settings"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:14
+msgid "Site favicon"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:16
+msgid "Upload a favicon"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:28
+msgid "Choose your favicon (ideal width and height is 16x16 or 32x32)"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:34
+msgid "Header logo setting"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:51
+msgid "Upload a 150x150 for Logo Image"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:70
+msgid "Enable/Disable Logo"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:91
+msgid "Enter Logo Width"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:110
+msgid "Enter Logo Height"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:132
+msgid "Show Logo text"
+msgstr ""
+
+#: functions/customizer/customizer-home.php:140
+#: functions/customizer/customizer-home.php:153
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:13
+#: functions/customizer/customizer-pro.php:20
+msgid "Upgrade to pro"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:48
+msgid "View Pro Demo"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:76
+msgid "ADD YOUR REVIEW"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:107
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:111
+msgid ""
+"The Pro Version gives you more opportunities to enhance your site and "
+"business. In order to create effective online presence one have to showcase "
+"their wide range of products, have to use contact us enquiry form, have to "
+"make effective about us page, have to introduce team members, etc etc . The "
+"pro version will give it all. Buy the pro version and give us a chance to "
+"serve you better."
+msgstr ""
+
+#: functions/customizer/customizer-project.php:8
+#: functions/customizer/customizer-project.php:14
+msgid "Project settings"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:33
+msgid "Enable home project section"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:43 theme_setup_data.php:40
+msgid "Featured portfolio project"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:65
+msgid "Section Tagline"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:74
+msgid "Project one"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:90
+#: functions/customizer/customizer-project.php:131
+#: functions/customizer/customizer-project.php:170
+#: functions/customizer/customizer-project.php:211
+#: functions/customizer/customizer-service.php:53
+#: functions/customizer/customizer-service.php:110
+#: functions/customizer/customizer-service.php:173
+#: functions/customizer/customizer-service.php:236
+#: functions/customizer/customizer-service.php:297
+#: functions/customizer/customizer-slider.php:47
+msgid "Title"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:105
+#: functions/customizer/customizer-project.php:144
+#: functions/customizer/customizer-project.php:184
+#: functions/customizer/customizer-project.php:225
+#: functions/customizer/customizer-slider.php:29
+msgid "Image"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:118
+msgid "Project two"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:157
+msgid "Project three"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:198
+msgid "Project four"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:8
+msgid "Service settings"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:33
+msgid "Enable service on homepage"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:44 theme_setup_data.php:20
+msgid "Our services"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:70
+#: functions/customizer/customizer-service.php:128
+#: functions/customizer/customizer-service.php:191
+#: functions/customizer/customizer-service.php:254
+#: functions/customizer/customizer-service.php:315
+#: functions/customizer/customizer-slider.php:77
+msgid "Description"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:79
+msgid "Service one"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:93
+#: functions/customizer/customizer-service.php:155
+#: functions/customizer/customizer-service.php:217
+#: functions/customizer/customizer-service.php:279
+msgid "Icon"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:101
+#: functions/customizer/customizer-slider.php:41 theme_setup_data.php:14
+#: theme_setup_data.php:24
+msgid "Fully responsive"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:136
+msgid "Service two"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:164 theme_setup_data.php:25
+msgid "SEO friendly"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:198
+msgid "Service three"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:227
+#: functions/customizer/customizer-slider.php:56 theme_setup_data.php:15
+#: theme_setup_data.php:26
+msgid "Easy customization"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:262
+msgid "Service four"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:288 theme_setup_data.php:27
+msgid "Well documentation"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:8
+#: functions/customizer/customizer-slider.php:14
+msgid "Banner image settings"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:62
+msgid "Subtitle"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:87 theme_setup_data.php:17
+msgid "Purchase Now"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:94
+msgid "Button Text"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:110
+msgid "Button Link"
+msgstr ""
+
+#: functions/quality-info/sections/actions-required.php:13
+msgid "1. Creating Homepage using Business Page Template."
+msgstr ""
+
+#: functions/quality-info/sections/actions-required.php:14
+msgid ""
+"To setup exact replica of home page as shown in our demo, you have to create "
+"a WordPress page using a template \"Business Template\" . Business Template "
+"shows all the section like banner, services portfolio etc etc which is ideal "
+"for any business site. Kindly refer the snapshot."
+msgstr ""
+
+#: functions/quality-info/sections/actions-required.php:21
+msgid "2. Assign Homepage as Front Page Displays."
+msgstr ""
+
+#: functions/quality-info/sections/actions-required.php:22
+msgid ""
+"If you want to show Homepage as Front Page? You need to set the Homepage as "
+"static page as shown in the snapshot below. Now go to custmizer and start "
+"configuring the sections in  Business Template. Hope you will find this "
+"theme useful"
+msgstr ""
+
+#: functions/quality-info/sections/actions-required.php:30
+#: functions/quality-info/sections/actions-required.php:37
+#: functions/quality-info/sections/child-themes.php:27
+#: functions/quality-info/sections/getting-started.php:28
+msgid "Quality Blue Child Theme"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:16
+msgid "Install & Use Quality Child Themes"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:18
+msgid ""
+"Below you will find a selection of Quality child themes that will totally "
+"transform the look of your site."
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:29
+msgid "Quality Blue"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:36
+#: functions/quality-info/sections/child-themes.php:65
+#: functions/quality-info/sections/child-themes.php:95
+#, php-format
+msgid "Install %s now"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:37
+#: functions/quality-info/sections/child-themes.php:66
+#: functions/quality-info/sections/child-themes.php:96
+msgid "Live Preview"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:42
+msgid "Quality Blue - Current theme"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:43
+#: functions/quality-info/sections/child-themes.php:72
+#: functions/quality-info/sections/child-themes.php:102
+msgid "Customize"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:56
+msgid "Quality Green Child Theme"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:58
+msgid "Quality Green"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:71
+msgid "Quality - Current theme"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:86
+msgid "Quality Orange Child Theme"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:88
+msgid "Quality Orange"
+msgstr ""
+
+#: functions/quality-info/sections/child-themes.php:101
+msgid "Quality Orange - Current theme"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:14
+msgid "Features"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:18
+msgid "Frontpage Sections"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:19
+msgid ""
+"There are intutive sections on Frontpage. You can build a website that will "
+"instantly."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:21
+msgid "Page Templates Support"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:22
+msgid ""
+"Various Page Template included in Quality Premium Theme. Do the compare with "
+"Lite vs Pro Version Features."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:24
+msgid "Layout Options"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:25
+msgid ""
+"Theme Support Wide & Boxed layout options. Which can be Switched from Theme "
+"Appearance Customize."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:27
+msgid "Mobile Friendly"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:28
+msgid "Responsive design layout. That will work for all devices."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:30
+msgid "Contact Form Support"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:31
+msgid "The theme has support Contact Form 7 Plugin. You can make Contact Form."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:35
+msgid "Parallax Effect"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:36
+msgid ""
+"To Display your all information on single page. Parallax effect provides you "
+"easy scroling experience."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:39
+#: functions/quality-info/sections/github.php:88
+msgid "Mulitple Color Schemes"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:40
+msgid ""
+"Enjoy with 9 preset color schemes. You can also create custom skin without "
+"adding any code."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:42
+msgid "Google Map"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:43
+msgid ""
+"To Display your Shop and Business location on your website using Google Map."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:45
+msgid "Portfolio"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:46
+msgid ""
+"Make your project/portfolio collection with 2 column, 3 column and 4 column. "
+"Also you can display project/portfolio by categorized."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:48
+msgid "Typography Settings"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:49
+msgid "You can customize the style without adding any code."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:53
+msgid "WPML Support"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:54
+msgid "The help of WPML Support. You can make Multilingual Website."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:57
+msgid "Support Forum"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:58
+msgid "Get instant 24x7 support on Our Support Forum."
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:72
+msgid "Quality Lite"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:98
+msgid "Quality Pro"
+msgstr ""
+
+#: functions/quality-info/sections/free_pro.php:123
+msgid "Get Quality PRO now!"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:14
+msgid "About Quality Theme"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:20
+msgid ""
+"Business theme which is ideal for creating a corporate / business website.It "
+"boasts of 3 beautifully designed page template namely Business Page, Full-"
+"width and Blog. Each section in the Business Template is well designed "
+"according to the business requirements. Section like Banner, Services, "
+"Projects etc etc are there."
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:22
+msgid ""
+"You can use this theme for any busniess type. Theme is compatible with "
+"contact form 7, so that you can create any type of  contact page. Theme also "
+"give clean and effective look to WordPress core gallery feature"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:37
+msgid "Useful Links"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:44
+msgid "Lite Demo"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:48
+msgid "View Pro"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:59
+msgid "Rate This Theme"
+msgstr ""
+
+#: functions/quality-info/sections/getting-started.php:62
+msgid "Support"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:11
+#: functions/quality-info/welcome-screen.php:209
+msgid "Why Upgrade Pro"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:16
+msgid "Site Layout"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:17
+msgid ""
+"Quality comes with two type of layout one is boxed and other one is wide "
+"layout, which can easily be switched from Theme Appearance Customizer."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:24
+msgid "Header Customization"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:25
+msgid ""
+"You can customize your header section. There are Contact info detail and "
+"social media icons features in Header Top section."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:33
+msgid "Multi Level Navigation"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:34
+msgid ""
+"Beautifully style navigation/menu in Qaulity Theme. You can make multi level "
+"menu. Multi Level menu means that you can create sub menu."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:42
+msgid "Caption Slider"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:43
+msgid ""
+"You can create unlimited slides and which you can control via setting in "
+"Theme Appearance Customizer."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:51
+msgid "Service Features"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:53
+msgid ""
+"Service section placed on the homepage. You can display as many services you "
+"want with thousands of font awesome icons. If you are thinking about Service "
+"Page? You can create separate service page using Service Page Template. "
+msgstr ""
+
+#: functions/quality-info/sections/github.php:61
+msgid "Portfolio Features"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:62
+msgid ""
+"Showcase any number of projects. Theme will provide you an option for "
+"creating 2,3,4 cloumn grid layout by using portfolio 2,3,4 column  layout "
+"templates respectively. If you have number of projects to show than these "
+"temnplates will be the answer. You can also create categorised portfolio, "
+"which displays all the portfolio categories on single place. In fact we have "
+"coded in such a manner so that you can create any number of different set of "
+"portfolios."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:70
+msgid "Latest News Section"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:71
+msgid ""
+"Most Commonly this feature used to display as Latest News, Announcement and "
+"Events. "
+msgstr ""
+
+#: functions/quality-info/sections/github.php:78
+msgid "Testimonial Feature"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:79
+msgid ""
+"Testimonials are a powerful way to gain credibility. You can display "
+"testimonial with carousel slider."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:89
+msgid ""
+"You will get 9 preset color schemes and you can even make yours favorite "
+"color schemes using Custom Color Setting in the Custmizer."
+msgstr ""
+
+#: functions/quality-info/sections/github.php:97
+msgid "Well Documented"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:98
+msgid ""
+"We provide good  knowledge base articles which helps you to create an "
+"effective wesbite. You can visit these articles on our  "
+msgstr ""
+
+#: functions/quality-info/sections/github.php:106
+msgid "Custom widget "
+msgstr ""
+
+#: functions/quality-info/sections/github.php:107
+msgid ""
+"Building website with our custom widgets is very simple. Just place them in "
+"inside the Sidebar in the footer column or even in the content"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:116
+msgid "Translation Ready"
+msgstr ""
+
+#: functions/quality-info/sections/github.php:117
+msgid ""
+"Theme supports  yet another famous plugin WPML. With the help of this "
+"support you can create website in multiple languages ."
+msgstr ""
+
+#: functions/quality-info/welcome-screen.php:56
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing quality Lite! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr ""
+
+#: functions/quality-info/welcome-screen.php:57
+msgid "Get started with quality Lite"
+msgstr ""
+
+#: functions/quality-info/welcome-screen.php:100
+msgid "Hooray! there are no required actions for you right now."
+msgstr ""
+
+#: functions/quality-info/welcome-screen.php:137
+msgid "View Theme Info"
+msgstr ""
+
+#: functions/quality-info/welcome-screen.php:207
+msgid "Getting Started"
+msgstr ""
+
+#: functions/quality-info/welcome-screen.php:208
+msgid "Actions Required"
+msgstr ""
+
+#: functions/quality-info/welcome-screen.php:210
+msgid "Free VS PRO"
+msgstr ""
+
+#: functions/quality-info/welcome-screen.php:211
+msgid "Child Themes"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:6 functions/widget/custom-sidebar.php:8
+msgid "Sidebar widget area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:16
+#: functions/widget/custom-sidebar.php:18
+msgid "Footer widget area"
+msgstr ""
+
+#: index-blog.php:26
+msgid "Posted By"
+msgstr ""
+
+#: index-projects.php:94
+msgid "View All Projects"
+msgstr ""
+
+#: tag.php:8
+#, php-format
+msgid "Tag Archive %s"
+msgstr ""
+
+#: theme_setup_data.php:57
+msgid "Latest from our blog"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Quality"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://webriti.com/quality-lite-version-details-page/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Business theme which is ideal for creating a corporate / business website.It "
+"boasts of 3 beautifully designed page template namely Business Page, Full-"
+"width and Blog. Theme is built on Bootstrap Css Framework, hence make it "
+"responsive in all the devices. Quality theme is completely transtion ready. "
+"To enable business template you have to create a normal WordPress page and "
+"select the page template as Business Template. To configure business "
+"template there are number of settings in the customizer. Each section in the "
+"Business Template is well designed according to the business requirements. "
+"Section like Banner, Services, Projects etc etc are there. You can use this "
+"theme for any busniess type. Theme also support famous plugin like contact "
+"form 7, so that you can create a conact page or any number of forms you want "
+"to add. Theme also give clean and effective look to WordPress core gallery "
+"feature. Browse lite version demo: http://webriti.com/quality-free"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://webriti.com/"
+msgstr ""
